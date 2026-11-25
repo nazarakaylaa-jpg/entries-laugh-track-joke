@@ -6,6 +6,8 @@
 // exactly to it, takes the money, and bounces back up. Stop-hunting is
 // the universal trader grievance: setup, turn and payoff in one line,
 // punchline at the end, a line a trader would repeat to a friend.
+// Revised in pass 2: "dipped exactly to it" keeps the turn tight and the
+// punchline in the final clause; "went back up" lands the groan.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
